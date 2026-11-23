@@ -1,0 +1,10 @@
+.DS_Store
+.env
+.env.*
+vendor/
+node_modules/
+build/
+.dart_tool/
+Pods/
+*.sqlite
+*.log
